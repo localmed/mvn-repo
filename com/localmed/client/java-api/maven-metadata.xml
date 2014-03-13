@@ -4,8 +4,8 @@
   <artifactId>java-api</artifactId>
   <versioning>
     <versions>
-      <version>1.1-SNAPSHOT</version>
+      <version>1.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140313205049</lastUpdated>
+    <lastUpdated>20140313210341</lastUpdated>
   </versioning>
 </metadata>
